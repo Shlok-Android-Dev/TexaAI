@@ -50,7 +50,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-        // For Text Recognition
+  /*      // For Text Recognition
         implementation("com.google.mlkit:text-recognition:16.0.1")
         // For Translation
         implementation("com.google.mlkit:translate:17.0.3")
@@ -64,5 +64,5 @@ dependencies {
         implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
         // For Floating Button
         implementation("com.getkeepsafe.taptargetview:taptargetview:1.13.1")
-
+*/
 }
